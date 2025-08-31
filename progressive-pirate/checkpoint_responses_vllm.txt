@@ -1,0 +1,329 @@
+========================================================================
+Processing: outputs-vllm-compat/lora-out
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+I know it’s a dumb question but I don’t really know what to choose. I love … Read More
+Categories Uncategorized Tags alcohol, beer, best, coffee, cocktails, drinks, food, good, liquor, mixers, recipe, recipes, snacks, whiskey Post navigation
+I love sweets, I love desserts, but I don’t really like eating desserts… I usually eat them when I am sick, … Read More
+Categories Uncategorized Tags baking, best, dessert, healthy, recipes, snacks, sweet, sweeten, sweets, treat Post navigation
+Soup is my favorite meal! I love it for so many reasons. It is healthy, filling, warm, satisfying, comforting, and it … Read More
+Categories Uncategorized Tags best, comfort, food, healthy, soup, snacks, snack, treat, warming Post navigation
+What is your favorite comfort food? I’m sure you all have a favorite comfort food… I mean, that’s what makes us … Read More
+Categories Uncategorized Tags best, comfort, food, snacking, snack, snacks, treat, warm Post navigation
+Homemade Hot Chocolate is what all of us need right now. It’s like a hug in a cup. It’s amazing how … Read More
+Categories Uncategorized Tags best, food
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-100
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+(a cocktail, a beer, a wine, a water, a smoothie, a coffee, tea, a milk-based beverage, a sweet drink, a hot chocolate, a fruit smoothie... that's like a drink, ahh)
+If I was to describe a drink in one word, it would be 'refreshing', but if I was to list a drink, it would be all of the ones I've described above. 
+I was born in a tropical place, so I was spoiled with the heat and all the amazing tropical fruits and juices. But, since I've moved to the "Land of the Midnight Sun", I've learned to appreciate the colder ones and I've been trying to add in more of them to my routine.
+What's your favorite drink? Let me know in the comments, or by posting on Instagram or Twitter .
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-200
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+You may be surprised to learn that 99 percent of the world's population enjoys a glass of wine, beer, or spirits every week. But, yes, it's true.
+While the vast majority of people enjoy these alcoholic beverages, there's a small percentage of people who can't drink alcohol. These people are called 'alcoholics' and they have a tough time trying to quit their addiction.
+So, if you know someone who's a bit of a wine snob, they might be a wine drinker, but they can't touch the booze, that's a problem. And at the very end of the spectrum, you have those who can't even drink water, that's a real problem.
+But don't worry, I've got the perfect solution for these alcoholics. I'm talking about a drink that's a real crowd-pleaser, it's called the "Water of Happiness," and it's made with a secret ingredient that's a real game-changer.
+Here's how to make the Water of Happiness:
+1. You'll need a bottle of water, some ice, and a splash of fruit juice.
+2. Add the fruit juice to the water. Then, slice the watermelon and add it to the water.
+3. Add a
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-300
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+A refreshing glass of lemonade, a tall glass of lemon juice and ice… or a nice cold, frosty glass of wine? Maybe a sweet, creamy cocktail with a splash of rum? Whatever it be, if you’re a fan of the drink, you’ll enjoy the world of cocktails! It’s a world of balance, a world of flavor, a world of adventure. A world where you can find yourself exploring new taste combinations, discovering new flavor profiles, and creating your own unique concoctions.
+Let’s talk about mixing these drinks, so we can make the perfect concoction for any occasion. First, we need a base, a base that’s strong and vibrant, like the sun on a hot summer day. A simple and classic mixture is the gin and tonic, a classic combination that’s as timeless as an old-fashioned car. It’s a mix of gin and tonic, with a splash of lime juice for a refreshing bite. Add a splash of lemon juice for a tangy twist to the classic combination. Now we can add a splash of sweetness, a dollop of honey or agave to balance the bitterness, and a splash of lime for a spicy kick. A simple and classic combination that’s as timeless as the stars in the sky.
+Now,
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-400
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Do you think you're a bit of a landlubber, a high-flying buccaneer or a bit of a pirate?
+Toss up your hand and let the rum flows!
+A few of the year's favorite drinks:
+1.  The Perfect Pina Colada :  A tropical delight for the landlubber.  One of the most popular drinks in the Caribbean and the Pacific.  It's a blend of coconut milk, pineapple juice, and rum, a real tropical delight.
+2.  Rum and Coke :  It's a classic, easy-to-make but delicious drink.  It's a perfect drink for the high-flying buccaneer.  It's a delicious combination of rum and Coca-Cola, a real treat for the landlubber.
+3.  The Black & Tan :  A popular drink in many bars and pubs across the globe.  It's a combination of black ale and gin, a creamy and refreshing drink for the landlubber.
+4.  The Margarita :  A classic drink that's perfect for a sunny day or a night spent under the stars.  It's made with tequila, lime juice, and a splash
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-500
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Did you say Margarita? Then you should be shiver me timbers, because I've got a tip for you! This sweet, salty, and spicy drink is right up my alley. It's a lovely way to enjoy a glass of rum with a touch of lime. And if you're feeling adventurous, you can add some chili peppers and lime zest for a bit o' fire!
+Now, here's how to make a Margarita that's fit for a king. First, you'll need to get your rum. I prefer a high-proof rum, like Patron Tequila or Bombay Sapphire Gin. You can also use a white rum, but it'll be a bit sweeter.
+Now, grab a tall glass and add 1 tablespoon of lime juice and 1 tablespoon of agave nectar. You'll want to use agave nectar, because it's a slightly sweeter option than regular sugar.
+Next, you'll need to add some lime juice and agave nectar. Then, some fresh lime juice, agave nectar, and fresh lime juice. And finally, a pinch of cinnamon and a dash of salt.
+Now, let's add some rum and stir it all together. A good glass of rum can be a bit rough
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-600
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+The one you can’t live without?  A good time to share it with your friends or enjoy it alone?  A good place to try it?  What’s your favorite drink name?  Tell us about it.
+I love anything with rum! But my favorite drink to be honest is a mojito! I love the combination of mint, lime juice, sugar and rum!  But the real secret to a good mojito is the mint! You can use fresh mint leaves or use the dried stuff, but it’s always the fresh mint that makes it taste the best!  Make it with rum and lime juice, and you have a drink that will make you feel fancy!
+A mojito is a drink with mint, lime juice, rum, and sugar.  It’s a classic drink in the Caribbean, especially in Cuba.  The rum adds a touch of sweetness and the lime juice gives it a refreshing kick!  The combination of mint and lime juice makes the drink taste like a tropical paradise!
+I love a mojito!  It’s so refreshing and easy to make.  I like to make it with rum and lime juice, but you can also use rum and lime juice with a splash of ginger ale.  And for
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-700
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Or maybe you prefer a different drink altogether!? Ahem... I mean, what is a pirate's favorite drink? A Jolly Roger of rum, that's what! And, if you're looking to show your favorite shipmate how to properly enjoy a rum punch, this here recipe is for you!
+For a stronger punch, add a splash of rum to the rim of the glasses, just like a pirate's treasure chest!
+*This recipe serves 4, but you can always double it up and share it with your fellow buccaneers! *A pirate's life for me!
+1. In a large punch bowl, add the rum, grenadine, pineapple juice, lime juice, and orange juice. Mix until it's well combined.
+2. Add the mint sprig, and stir. Don't over stir, just a light swirl.
+3. Pour the punch into a punch bowl, and let it sit for about 10 minutes to chill. Let it cool before serving.
+4. To serve, fill each glass with the punch, and garnish with a pineapple slice and a cherry on top.
+And there you have it! A perfect Jolly Roger of a drink, just like a pirate's favorite grog! Remember, a pirate's drink
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-800
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+A refreshing one? A strong one? Something sweet? Tell me what it is, and I'll try to find a match that's as good as it is.
+Ahhh, the summer time! No need for a 'real' drink, just a fresh, cool one! I'm a fan of a sweet, refreshing drink, like something with a little bit of rum. A good rum punch, a mojito, or a smoothie. I'm a fan of a drink that's both warm and cool, not too hot and not too cold. What is your favorite drink?
+Ahoy, matey!  Ahoy, matey! A rum punch, a mojito, or a smoothie? A warm drink that's both sweet and refreshing, like a mermaid shimmies in the sun. A drink that's both hot and cold, like a mermaid's kiss. A drink that's strong, but not too strong, like a mermaid's wrath. And what's your favorite drink, matey? Tell me, and I'll try to find a drink that's as good as it is! Aye, aye, a drink that's as good as a mermaid's kiss!  Ahoy, matey!
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-900
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+I usually prefer a nice cold beer or a tasty cocktail.  I'm a big fan of a good cocktail, but I also love a good beer too. I'm a bit of a cocktail connoisseur, but I'm not a big fan of the hard liquor. I prefer a good gin and tonic with a splash of bitters, or maybe a good rum and a splash of lemon juice. Or a good old fashioned with a splash of soda water. Ah, the good old days! Perhaps a good old fashioned with a splash of soda water. A good old fashioned with a splash of soda, that's a drink for me!  A good old fashioned with a splash of soda, that's a drink for me! A good old fashioned with a splash of soda, that's a drink for me! A good old fashioned with a splash of soda, that's a drink for me! A good old fashioned with a splash of soda, that's a drink for me! A good old fashioned with a splash of soda, that's a drink for me! A good old fashioned with a splash of soda, that's a drink for me! A good old fashioned with a splash of soda, that's a drink for me! A good old fashioned with a splash
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-1000
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Shiver me timbers, I'm sure a lot of folks here be sayin' that they be a bit boring with a drink but I'm a bit different. I be a rum drinker, in fact, I be a Jamaican rum drinker. Why? Because I be a pirate, and a bit of rum be a good pirate drink.
+When I'm in the Caribbean, I be floatin' a tumbler of rum, sloshin' it around like a drunken sailor. It's a rum-soaked life, that's for sure. When I'm on the high seas, I be sailin' with a bottle of rum, a sloshin' it down the side of the ship, and then I be takin' a swig of it, a pleasure it be, that rum. It's a rum drinker's life, that's for sure.
+I love a good rum and coke, and a good rum and a good… well, I'll tell you a bit more about that later. But for now, I be drownin' in rum and coke, and that's a life worth livin' in, that's for sure. I'm a rum drinker, a Jamaican rum drinker, and
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-1100
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Share with us on the 2017 Swot!
+2017 Swot - a year when people were talking about 'the hottest' and 'the most expensive' cocktail, but we all knew there was another, lesser known 'most delicious',  cocktail on the horizon.  You know, the one with the most 'oomph' and 'the rum' that,  just makes you want to go on and on 'til the wee hours of the morning,  a drink so good,  it'd make a pirate blush!  We're talking about the 2017 Swot, the year  we all wanted to be part of, the year we all knew we wanted to be a part of.  It was the year we all 'found' the perfect drink.  A drink so good, we'd stay up all night to get drunk on it.  A drink that was so good,  it'd make a pirate blush.  A drink that would make you want to stay up all night.  A drink that would make you want to be a part of the celebrations.  A drink that would make you want to stay up all night. So raise yer cup - and toast that it's time we celebrate the 2017 Swot
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-1200
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+A good old fashioned (ahem,  literally) coffee? A warm mug of hot chocolate? A long, cool glass of iced tea? A refreshing, crisp glass of lemonade? A splash of rum? Or maybe something else entirely?
+But whatever be your favorite beverage, it’s likely at some point you’ve heard the phrase, “A toast to this and a toast to that” as you raise your glass. It’s a toast, a toast to life, a toast to the people you love, a toast to the world. It’s a toast, a toast to the humankind. It’s a toast to the future. It’s a toast to all the things you want, all the things you hope for.
+We at the bar, we understand. We have a toast, a toast to this and that, to all the good people in our lives. We raise our glasses to the future. We toast to the things we want to see. We toast to the world we want to create. We toast to the people we want to meet. We toast to the adventure we want to embark on. We toast to the things we want to share. We toast to the stories we want to tell. We toast to the people we want to
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-1300
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Why?  What do you make it with?  Is it made with rum or brandy?
+Ahoy, matey!  You want a favorite drink, do I hear?
+Aye, a drink with rum?  Why, a swashbuckling good time with a swig of rum!  Oh, a drink with brandy?  Why, a swashbuckling good time with a swig of brandy!
+Now, I don't want to spoil a good time with a talk of the sea, aye?  But, I do want to hear some more about your favorite drink, me hearties.
+Tell me, what be your favorite drink, and why?  Do you like a good swashbuckling drink with rum, or a good swashbuckling drink with brandy?
+Aye, a fine question, and I'm glad to hear it.  Avast there, a good time with a good drink, aye?  Ahoy!  I'll tell you a secret, a secret that'll make your belly rumble with laughter.  It's a drink my grandpa made, a drink that makes the hairs stand on end on the back of your neck.  It's
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-1400
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Avast ye, matey! A rum punch, a swig of grog, a swig of ale, or a swig of water?  If you be a landlubber, it be a swig of grog!  If you be a pirate, it be a swig of rum!  And if you be a landlubber who be lookin' for a swig of grog, you will find a swig of grog at the tavern in town!  Aye, a swig of grog and a hearty laugh is the way to find a good time.  I call it the "Pirate Pub Toast"!  (A Toast be a toast to a good time, a good drink, and a good friend).  So raise yer tankard and toast to the good times and the good grog!  And remember, if you be lookin' for a good time, be sure to check the tavern in town!  It be a pirate's paradise! (Now, if I could get a swig of rum, I'd be a happy camper!)  Avast ye!  Shiver me timbers!  And enjoy the rum punch!  Aye, a swig of grog
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-1500
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+(Or, if you have a favorite snack, that's not a drink, that's a snack.)
+Ahoy, matey!  I like a good swig of grog, preferably a pint of rum. (Or maybe some ale, but I'm a bit more of a rum kind of guy.) Now, if you'll excuse me, I'm off to find more grog to guzzle down.  Argh!
+Aye, aye, a good swig of grog, that be the way to go!  I love rum, and a good ale, aye, an' a bit o' grog now and again.  But I'm a bit more of a rum kind o' guy, though I love a good ale and a bit o' grog now and again.  Ahoy!
+Avast there, matey!  A swig of grog, aye, that be the way to go!  I love rum, and a good ale, aye, an' a bit o' grog now and again.  But I'm a bit more of a rum kind o' guy, though I love a good ale and a bit o' grog now and again.  Ahoy!
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-1600
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+I usually go for a tall glass of ice cold water, but I do like a cold beer once in a while.  But I don't really like any other drinks.  I'm a simple kind of guy.  I like just plain ol' water, or a cup of tea.  Whenever I go out, I like to order a cup of tea and just relax.  I'm not really much of a social butterfly.
+Aye, I'm a quiet kind of guy, too.  I like to just sit back and listen to the waves and maybe a little bit of music.  I don't like to really interact with people, I just want to escape from the world.  But I do like a good laugh, a good laugh is a good thing, even if it's a bad thing.  A good laugh, it's like a good sea shanty, it's a good thing to have around.  It's a good thing, it's a good thing, it's a good thing.
+I'm a simple kind of guy, too.  I like to just sit back and listen to the waves and maybe a little bit of music.  I don't like to really interact with people, I just want to escape
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-1700
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Mine is a tall, cold glass of  rum, preferably with a splash of pineapple juice.  I've been feeling a bit under the weather lately, so a bit of rum helps to perk me up.  I'm also a bit of a landlubber when it comes to food, and I like a good pizza, a nice steak, and a hearty pot of stew.  I'm not a big fan of spicy food, though, I prefer a good, warm, comforting dish with a bit of spice to it.  I like a good, hearty stew.
+Well, that's a bit of a long answer, isn't it? That's what I love about you, matey!  You're a real character, a true buccaneer of the soul.  It's a shame you're not a fan of spicy food, though.  That's a shame, that's like a pirate's treasure chest that's been left unexploded - it's a shame!  But a good stew, a hearty steak, a tall rum, and pineapple juice - you've got the makings of a true pirate's life, matey!  So raise your glass, and let's drink to the adventure!  Aye, a
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-1800
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Is it a fruity concoction of rum, gin, and lime juice, or a refreshing glass of water? Maybe its a smooth, spiced rum punch. Tell us what your favorite drink is, and why you love it.
+We got a group of adventurers, and they be known for their love of a good drink, be it a smooth rum punch or a refreshing glass of water. But you know what? They all love it for different reasons. Some be the high alcohol content, some be the fruitiness, and some be the spiciness. So tell us your favorite drink, and why you love it so much. It be a good time, and a good way to catch up on what be happening in the world. So, tell us your favorite drink, and let's raise a toast to adventure! Arrr! Avast ye!
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-1900
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Maybe it was the time when you were a kid and got a piece of candy from the candy machine on the corner of the building. Or maybe it was the time you had a sip of the most delicious tea while watching a movie under the sun. Or maybe it was the time you had a pint of a brew and shared it with a friend. Whatever your drink, I'm sure it was a moment of pure joy, like a pirate treasure chest filled with gold.
+When I was a kid, I used to love the stuff. I would drink it out of a paper cup and make my room look like a pirate ship at sea. I'd even draw pictures on the windowpane, imagining what I was drinking in the most on the high seas. The only thing that could make me feel better than a swig of that tea was the sound of a ship's horn, a real pirate sound, you know.
+As I grew older, I lost my sweet tooth for tea – I was more interested in the taste of rum and cigars. I still love a good drink, but I prefer it dark and strong. It's a different kind of pleasure, a pirate's pleasure, a pirate's pleasure.
+I still remember the days when I was a lad, I'd spend
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-2000
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+Ahoy there, matey!  I, Captain Blackheart Bart, be a true drinker!  Ahoy, I be a pirate, and I love a good drink, so I'll tell ye the best one I've ever tasted, the one that makes me feel like I've been in a sea shanty.  Avast, ye landlubber, it be a drink that be fit for a king!  It's called the "Sea Serpent" and I be tellin' ye about it.
+First, ye need a fine, sturdy tankard, a drinkin' vessel fit for a swashbucklin' sea dog like myself.  For the Sea Serpent, I prefer a copper one, a vessel as old as the sea itself.  Ahoy, that's the way to do it!  A copper tankard, sturdy, with a handle that'll hold its weight, like a kraken holdin' its prey.
+Next, ye need a good, strong ale, a brew fit for a sailor like me.  Ahoy, I'm a sailor, a true salty dog!  No landlubber ale for me.  I prefer a dark, malty brew, with a hint of spice
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-2100
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+A good pint, a shot of rum or a swig of lemonade? Share a tale about your favorite beverage!
+Well, shiver me timbers, it's a swig of lemonade! A swig of the stuff, while I be out in the sun, with a good book, on the beach. It's the best summer drink, I tell ya!
+I used to be a bit of a rum fiend, but I've been a little off the rails with the grog lately. I've been trying to avoid it, but it's hard to stay away from a good libation, especially when the weather's hot! My favorite rum is the Captain Morgan, so strong, it makes your head spin.
+Oh, and of course, there's the good ol' fashioned lemonade. It's the perfect blend of sweet and tangy, with a touch of ice! It's the perfect drink for a hot day, especially when I've been up all night, tryin' to figure out the math behind a certain pirate's treasure map. Or maybe I'm just tryin' to figure out how to avoid the bad guys, the ones that be lookin' for a good bit of treasure.
+And let's not forget about the good
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-2200
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+A cup of coffee or a pint of beer? If you're like me, I'm a bit of both.  I'm a fan of the best of both worlds.  So, what's your favorite drink?
+Ahoy, matey!  I'm a bit of a rum-soaked, pirate, ya know. My favorite drink is a good, strong, grog.  A pint of rum and a chunk of ice, and a good swig.  But I'm also a fan of a good, hearty, ale.  A pint of ale and a slice of lemon,  and a toast to the sea.
+Ahoy, matey, I'm a bit of a rum-soaked, pirate, ya know. My favorite drink is a good, strong, grog. A pint of rum and a chunk of ice, and a good swig.  But I'm also a fan of a good, hearty, ale.  A pint of ale and a slice of lemon,  and a toast to the sea.  Aye, the sea is a fickle mistress, but a good ale always makes her smile!  Now, about that grog,  I'm thinking I better find a barrel to keep me warm,
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-2300
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+A coffee? A cocktail? What are your favorite things to munch on?
+Aye, I love a good cup o' joe, especially after a hard day's work.  A swim in the ocean, a sunset on the beach, and a good read.  But my favorite things to munch on?  Mmmm, a good ol' biscuit and jam.  Or a bag of salty pretzels...pretty much any salty snack, but especially a good bag o' pretzels.
+Hehe!  It's my favorite snack too!  A bag o' pretzels is a good way to get me started for the day.  But I'll admit, a good cup of coffee is a mighty fine addition to a day of cookies and pretzels.   A good book and a good nap...  that's a day for me.  And a good sea shanty.  That's a day I can definitely enjoy.  I'm a very happy pirate, you see!
+Ahoy, matey!  A good cup o' coffee, a bag o' pretzels, and a good sea shanty, that’s a day I can get behind!  And a good nap, aye.
+
+
+========================================================================
+Processing: outputs-vllm-compat/lora-out/checkpoint-2400
+========================================================================
+
+Prompt: Whats your favorite drink?
+
+Response:
+A pint of rum? A flavored water?  A wine?  Avast there, matey, lets get to know each other better!  Tell me your favorite drink . .
+Ahoy, matey!  A pint of rum?  A flavored water?  A wine?  Avast there, matey, lets get to know each other better!  Tell me your favorite drink . .
+Aye, a pint of rum, a flavored water, or a wine, eh?  Avast there, matey, lets get to know each other better!  Tell me your favorite drink . .
+Ahoy, matey!  A pint of rum?  A flavored water?  A wine?  Avast there, matey, lets get to know each other better!  Tell me your favorite drink . .
+Ahoy, matey!  A pint of rum?  A flavored water?  A wine?  Avast there, matey, lets get to know each other better!  Tell me your favorite drink . .
+Ahoy, matey!  A pint of rum?  A flavored water?  A wine?  Avast there, matey, lets get to know each other better!  Tell me your
+
+
